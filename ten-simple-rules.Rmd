@@ -1,0 +1,33 @@
+---
+title: "10 simple rules for writing a literature review"
+output: github_document
+---
+
+
+## Citation info
+
+by Marco Pautasso 
+in PLOS Computational Biology 2013
+
+## What are the ten rules?
+
+1. Define a topic and audience
+
+2. Search and re-search the literature
+
+3. Take notes while reading
+
+4. Choose the type of review you wish to write
+
+5. Keep the review focused, but make it of broad interest
+
+6. Be critical and consistent
+
+7. Find a logical structure
+
+8. Make use of feedback
+
+9. Include your own relevant research, but be objective
+
+10. Be up-to-date, but do not forget older studies
+
